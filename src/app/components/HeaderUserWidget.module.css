@@ -1,0 +1,35 @@
+.profilemenucontainer {
+    position: relative;
+    height: 40px;
+}
+
+.profilemenucontainer button {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    overflow: hidden;
+    border: 2px solid #4F8537;
+    cursor: pointer;
+    padding: 0;
+}
+
+.menudropdown {
+    position: absolute;
+    top: 46px;
+    right: 0;
+    background: #FFF;
+    border: 1px solid rgb(232, 232, 232);
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,.1),0 2px 4px -2px rgba(0,0,0,.1);
+    width: 200px;
+    border-radius: 5px;
+}
+
+.menudropdown a {
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+}
+
+.menudropdown a:hover {
+    background: rgb(250, 250, 250);
+}

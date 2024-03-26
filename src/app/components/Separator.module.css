@@ -1,0 +1,12 @@
+.horizontal {
+    border: 0;
+    background: #000;
+    height: 1px;
+}
+
+.vertical {
+    width: 1px;
+    height: var(--standard-font-size);
+    display: inline-block;
+    background: #000;
+}

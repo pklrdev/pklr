@@ -1,0 +1,15 @@
+.textentry {
+    margin: 20px 0;
+}
+
+.textentry label {
+    display: block;
+    font-weight: 500;
+    font-size: var(--smaller-font-size);
+}
+
+.textentry input {
+    padding: 10px;
+    font-size: var(--standard-font-size);
+    width: 100%;
+}

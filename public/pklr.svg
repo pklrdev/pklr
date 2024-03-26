@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="181px" height="235px" viewBox="0 0 181 235" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Pklr Logo</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E6F7D1" offset="0%"></stop>
+            <stop stop-color="#C9EBA4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.28983499e-14%" y1="46.7671155%" x2="100%" y2="46.7671155%" id="linearGradient-2">
+            <stop stop-color="#B6B8B9" stop-opacity="0.43" offset="0%"></stop>
+            <stop stop-color="#E1EBF1" stop-opacity="0.43" offset="38.5007858%"></stop>
+            <stop stop-color="#DCE8EE" stop-opacity="0.43" offset="57.7361053%"></stop>
+            <stop stop-color="#A7AFB4" stop-opacity="0.43" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="1.82145965e-14%" y1="50.0004967%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#3A5B73" offset="0%"></stop>
+            <stop stop-color="#738793" offset="46.4980332%"></stop>
+            <stop stop-color="#1B2E3F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="43.8242577%" y1="43.1807614%" x2="55.7878324%" y2="56.5484041%" id="linearGradient-4">
+            <stop stop-color="#718591" offset="0%"></stop>
+            <stop stop-color="#2E4151" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-5" cx="79" cy="30.5" rx="70" ry="26.5"></ellipse>
+        <filter x="-2.5%" y="-6.6%" width="105.0%" height="113.2%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="2.5" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Pickle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pklr-Logo" transform="translate(6, 0)">
+            <g id="Pickle-Copy" transform="translate(56, 158.5) rotate(-25) translate(-56, -158.5)translate(24, 95)">
+                <path d="M12.7601658,110.935924 C-2.77047848,85.5694811 -6.04679608,51.9476879 13.7975909,22.2343795 C33.6419779,-7.47892877 64,10.6703035 64,21.2160311 C64,31.7617587 36.7007234,53.7415119 55.8880887,93.1378447 C75.0754541,132.534177 28.2908102,136.302367 12.7601658,110.935924 Z" id="Path" stroke="#4F8537" stroke-width="8" fill="#B4D795"></path>
+                <path d="M53,7 C53,7 55.9385391,1.53341487 60,0" id="Path-2" stroke="#4F8537" stroke-width="8" stroke-linecap="round"></path>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="15.5" cy="51.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="38.5" cy="55.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="35.5" cy="33.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="26.5" cy="80.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="15.5" cy="69.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="42.5" cy="94.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="22.5" cy="98.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="28.5" cy="44.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="26.5" cy="22.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="49.5" cy="22.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="38.5" cy="108.5" r="3.5"></circle>
+            </g>
+            <g id="Pickle-Copy-2" transform="translate(125, 142.5) scale(-1, 1) rotate(12) translate(-125, -142.5)translate(93, 79)">
+                <path d="M12.7601658,110.935924 C-2.77047848,85.5694811 -6.04679608,51.9476879 13.7975909,22.2343795 C33.6419779,-7.47892877 64,10.6703035 64,21.2160311 C64,31.7617587 36.7007234,53.7415119 55.8880887,93.1378447 C75.0754541,132.534177 28.2908102,136.302367 12.7601658,110.935924 Z" id="Path" stroke="#4F8537" stroke-width="8" fill="#B4D795"></path>
+                <path d="M53,7 C53,7 55.9385391,1.53341487 60,0" id="Path-2" stroke="#4F8537" stroke-width="8" stroke-linecap="round"></path>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="15.5" cy="51.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="38.5" cy="55.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="35.5" cy="33.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="26.5" cy="80.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="15.5" cy="69.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="42.5" cy="94.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="22.5" cy="98.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="28.5" cy="44.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="26.5" cy="22.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="49.5" cy="22.5" r="3.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="38.5" cy="108.5" r="3.5"></circle>
+            </g>
+            <path d="M85,40.5 C107.699339,40.5 128.31438,45.2232728 143.518434,52.9222229 C158.640621,60.5797178 168.429077,71.1775092 169.417578,83.0210402 L169.5,185 C169.5,190.98808 167.242894,196.69431 163.16933,201.900785 C158.89894,207.358827 152.637277,212.265893 144.870133,216.377911 C129.548029,224.489613 108.379481,229.5 85,229.5 C61.6205194,229.5 40.4519705,224.489613 25.1298675,216.377911 C17.3627226,212.265893 11.1010603,207.358827 6.83066964,201.900785 C2.75710567,196.69431 0.5,190.98808 0.5,185 L0.5,83.0215848 C1.53002987,71.1756265 11.3423949,60.5756692 26.4804591,52.9175897 C41.6938585,45.2213994 62.3051935,40.5 85,40.5 Z" id="Jar" stroke="#D9D8D8" fill="url(#linearGradient-2)"></path>
+            <g id="Lid" transform="translate(5, 0)">
+                <path d="M80,22 C102.180063,22 122.251913,25.4412895 136.742606,30.9998083 L160,31 L160,53 L159.989452,53.000378 C159.288518,69.6142797 123.744459,83 80,83 C35.81722,83 0,69.3446849 0,52.5 L0.01,53 L0,53 L0,31 L23.2549154,31.0007592 C37.7457978,25.4416819 57.8186722,22 80,22 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+                <ellipse id="Oval" fill="#324555" cx="80" cy="30.5" rx="80" ry="30.5"></ellipse>
+                <g id="Oval">
+                    <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
