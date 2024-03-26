@@ -12,7 +12,7 @@ export async function signup(formData: FormData) {
         password: formData.get("password") as string,
         options: {
             data: {
-                fullName: formData.get("fullname") as string,
+                full_name: formData.get("fullname") as string,
             },
         },
     };

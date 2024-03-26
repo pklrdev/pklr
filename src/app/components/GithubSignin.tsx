@@ -9,7 +9,7 @@ async function signInWithGithub() {
     const { error } = await supabase.auth.signInWithOAuth({
         provider: "github",
         options: {
-            redirectTo: "https://pklr.dev/auth/callback",
+            redirectTo: window.location.origin + "/auth/callback",
         },
     });
 
