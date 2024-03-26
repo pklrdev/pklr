@@ -32,6 +32,7 @@
 .logo h1{
     font-size: var(--standard-font-size);
     margin-left: 1rem;
+    margin-bottom: 0;
 }
 
 .rightSection {

@@ -74,15 +74,14 @@
 }
 
 * {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
+    box-sizing: border-box;
 }
 
 html,
 body {
-  max-width: 100vw;
-  overflow-x: hidden;
+    max-width: 100vw;
+    overflow-x: hidden;
+    margin: 0;
 }
 
 body {
@@ -110,6 +109,8 @@ main {
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 0.8em;
 }
 
 button {
