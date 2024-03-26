@@ -1,3 +1,7 @@
 export default function ErrorPage() {
-    return <p>Sorry, something went wrong</p>
+    return (
+        <main>
+            <p>Sorry, something went wrong</p>
+        </main>
+    );
 }
